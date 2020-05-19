@@ -9,7 +9,7 @@ You can download linguistic constraints that were used in our work:
 - [Italian](https://mydisk.cs.upc.edu/s/AFk9cfJckgBsWGr)
 
 ## Publication
-If you use the software or linguistic constraints in this repository for academic research, please cite the relevant paper as follows:
+If you use the software or linguistic constraints from this repository for academic research, please cite the relevant paper as follows:
 ```
 @inproceedings{biesialska2020enhancing,
   title={Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources},
