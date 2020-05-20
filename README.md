@@ -1,5 +1,6 @@
 # wgan-postspec
-WGAN-postspec algorithm presented in "Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources" @ ACL 2020 SRW
+
+WGAN-postspec source code and linguistic constraints presented in the "Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources" paper at ACL 2020 SRW
 
 
 ## Linguistic constraints
@@ -8,8 +9,8 @@ You can download linguistic constraints that were used in our work:
 - [German](https://mydisk.cs.upc.edu/s/EWQiiTBibbbJGng)
 - [Italian](https://mydisk.cs.upc.edu/s/AFk9cfJckgBsWGr)
 
-## Publication
-If you use the software or linguistic constraints from this repository for academic research, please cite the relevant paper as follows:
+## Citation
+If you use any part of our work (software, linguistic constraints, etc.) for your research, please cite our paper as follows:
 ```
 @inproceedings{biesialska2020enhancing,
   title={Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources},
@@ -18,3 +19,5 @@ If you use the software or linguistic constraints from this repository for acade
   year={2020}
 }
 ```
+## License
+This work is licensed under the GNU GENERAL PUBLIC LICENSE (ver. 3), as found in the LICENSE.txt file.
