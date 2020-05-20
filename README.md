@@ -20,4 +20,4 @@ If you use any part of our work (software, linguistic constraints, etc.) for you
 }
 ```
 ## License
-This work is licensed under the GNU GENERAL PUBLIC LICENSE (ver. 3), as found in the LICENSE.txt file.
+This work is licensed under the GNU GENERAL PUBLIC LICENSE (ver. 3), as found in the LICENSE file.
