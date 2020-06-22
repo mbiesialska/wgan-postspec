@@ -12,12 +12,18 @@ You can download linguistic constraints that were used in our work:
 ## Citation
 If you use any part of our work (software, linguistic constraints, etc.) for your research, please cite our paper as follows:
 ```
-@inproceedings{biesialska2020enhancing,
-    title={Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources},
-    author={Magdalena Biesialska and Bardia Rafieian and Marta R. Costa-jussà},
-    year={2020},
-    booktitle={Proceedings of the {ACL} Student Research Workshop},
-    url={https://arxiv.org/abs/2005.10048}
+@inproceedings{biesialska-etal-2020-enhancing,
+    title = "Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources",
+    author = "Biesialska, Magdalena  and
+      Rafieian, Bardia  and
+      Costa-juss{\`a}, Marta R.",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-srw.36",
+    pages = "271--278"
 }
 ```
 ## License
