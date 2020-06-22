@@ -1,6 +1,6 @@
 # wgan-postspec
 
-WGAN-postspec source code and linguistic constraints presented in the ["Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources"](https://arxiv.org/abs/2005.10048) paper at ACL 2020 SRW
+WGAN-postspec source code and linguistic constraints presented in the ["Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources"](https://www.aclweb.org/anthology/2020.acl-srw.36/) paper at ACL 2020 SRW
 
 
 ## Linguistic constraints
